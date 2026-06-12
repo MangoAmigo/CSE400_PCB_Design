@@ -1,0 +1,12 @@
+1.	ultrasound sensor
+2.	temperature sensor
+3.	PIR sensor
+4.	LDR
+5.	3 pin switch
+6.	Servo Driver
+7.	LCD monitor
+8.	oled monitor
+9.	4 LEDs
+10.	4 Potentiometers
+11.	4x3 keypad
+12.	12V to 5V step down Buck transformer
